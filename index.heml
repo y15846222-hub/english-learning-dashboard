@@ -1,1 +1,35 @@
-Yuki’s English Learning Workspace 包括:今日任务、跟读、口语、词汇和纠错几个版块。
+<!doctype html> <html lang="zh-CN"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>Yuki 的英语学习工作台 V2</title> <style> body { font-family: -apple-system , BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; padding: 0; background: #f6f7f9; color : #222222; line height: 1.6; } header { background: #111111; color: #ffffff; padding: 16px; text align: center; } main { max width: 960px; margin: 24px auto; padding: 0 16px 48px; } .card { background: #ffffff; border radius: 14px; padding: 18px; box shadow: 0 2px 10px rgba (0,0,0,0.06); margin bottom: 16px; } .pill { display: inline-block ; padding: 3px 10px; border radius: 999px; font size: 12px; background: #eef2ff; color : #2b50ff; } .muted { color : #666666; font size: 13px; } .progress-wrap { background: #f0f0f0; border radius: 999px; overflow: hidden ; height: 10px; margin top: 8px; } .progress-bar { height: 100%;
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+background: linear gradient (90deg, #2b50ff, #5aa7ff); } ul { margin: 8px 0 0 18px; padding: 18px; } li { margin bottom: 6px; } footer { text align: center; color: #999999; font size: 12px; padding: 16
+
+
+
+
+  
+
+
+
+
+
+px; } </style> </head> <body> <header> <h1>Yuki 的英语学习工作台</h1> <div class="muted" style="color: #cccccc;">六阶段路线 · 当前阶段 1 · 每日任务</div> </header> <main> <section class="card"> <h2>当前阶段</h2> <span class="pill">阶段 1: 英语句子底层结构</span> <p>目标: 打破中文直译,建立时间 + 状态 + 动词变化的句子骨架。</p> <div class="muted">当前进度(手动更新), 完成约1/6</div> <div class="progress-wrap"> <div class="progress-bar style="width: 17%"></div> </div> </section> <section class="card"> <h2>今日任务(约 2 小时)</h2> <ul> <li>15 分钟: 时态切换小练习,一般 / 进行 / 完成 / 持续,同义转换。</li> <li>15 分钟: do / be / have / can / will + 否定 / 疑问各造 1 句,共 10 句。</li> <li>30 分钟: 短视频 shadowing,跟读 3-5 遍,然后用自己的情况改说一遍并录音。</li> <li>20 分钟: 回听录音,标记 3 个问题,用同一句话修正再说一遍。</li> <li>20 分钟: 30 秒小复述,主题围绕日常,比如早晨、工作、休息,尽量使用词汇库里的短语。</li> </ul> </section> <section class="card"> <h2>六阶段路线总览</h2> <ol> <li><strong>阶段 1(当前): 句子底层结构</strong> - 时间、状态、动词变化,不乱拼句子。</li> <li><strong>阶段 2: 生活英语自动化</strong> - 高频动词、否定 / 疑问 / 连接词,日常表达更顺。</li> <li><strong>阶段 3: 听力 + Shadowing</strong> - 短视频跟读 + 模仿 + 复述,积累语块,减少中文翻译。</li> <li><strong>阶段 4: 连续表达(30 秒到 2 分钟)</strong> - 经历、观点、原因、例子。</li> <li><strong>阶段 5:雅思专项</strong >- Speaking Part 1/2/3 + 相关听读写训练。</li> <li><strong>阶段 6: 雅思模考与查漏</strong> - 完整模考、错误库、弱项强化。</li> </ol <p class="muted">提示: 阶段是并行推进的,当阶段1打到一定程度,阶段2和3自动加入。</p> </section> </main> <footer>Yuki 专用 · 英语学习工作台 V2</footer> </body> </html>
